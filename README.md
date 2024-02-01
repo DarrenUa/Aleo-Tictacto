@@ -24,7 +24,7 @@ An alternative representation would be to use an array, however, these are not y
 - conditional statements
 - early termination. Leo allows users to return from a function early using the `return` keyword.
 
-## Running the Program
+## Running the Program.
 
 Leo provides users with a command line interface for compiling and running Leo programs.
 Users may either specify input values via the command line or provide an input file in `inputs/`.
@@ -49,7 +49,7 @@ leo run <function_name>
 leo execute <function_name> <input_1> <input_2> ...
 ```
 
-## Playing the Game
+## Playing the Game.
 
 ### 1. Create a new game board
 ```bash
